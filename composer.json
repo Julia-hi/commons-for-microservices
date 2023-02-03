@@ -1,0 +1,13 @@
+{
+	"autoload": {
+
+		"psr-4": {
+
+			"BaseApp\\": "codebase/commons/models"
+		}
+
+	},
+	"require": {
+		"curl/curl": "^2.4"
+	}
+}
